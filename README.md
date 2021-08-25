@@ -23,7 +23,7 @@ Tip:Compile this code in the same folder as the header file.
 
 # CTrump.py
 A tool that can convert your code into ctrump.
-** How To Use: **
+**How To Use:**
 1.Paste your code to the input box on the left;
 2.Click 'Go';
 3.Ctrump code appears in the box on the right.(Tip:The code does not need to rely on 'ctrump.h')
